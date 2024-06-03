@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battery Notifier</string>
+    <string name="contact_pick_text">Pick Contact</string>
+    <string name="contact_number_text">No contact selected!</string>
+    <string name="charge_alert">Charge Alert</string>
+    <string name="percentage">Percentage</string>
+</resources>
